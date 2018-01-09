@@ -1,0 +1,12 @@
+F:\VS项目\WeiDian\ToolsCommon\bin\Debug\WeiDian.ToolsCommon.dll
+F:\VS项目\WeiDian\ToolsCommon\bin\Debug\WeiDian.ToolsCommon.pdb
+F:\VS项目\WeiDian\ToolsCommon\obj\Debug\ToolsCommon.csproj.CoreCompileInputs.cache
+F:\VS项目\WeiDian\ToolsCommon\obj\Debug\WeiDian.ToolsCommon.dll
+F:\VS项目\WeiDian\ToolsCommon\obj\Debug\WeiDian.ToolsCommon.pdb
+F:\VS项目\WeiDian\ToolsCommon\obj\Debug\ToolsCommon.csprojResolveAssemblyReference.cache
+F:\GitHub\WeiDian\bin\debug\WeiDian.ToolsCommon.dll
+F:\GitHub\WeiDian\bin\debug\WeiDian.ToolsCommon.pdb
+F:\GitHub\WeiDian\ToolsCommon\obj\Debug\ToolsCommon.csprojResolveAssemblyReference.cache
+F:\GitHub\WeiDian\ToolsCommon\obj\Debug\ToolsCommon.csproj.CoreCompileInputs.cache
+F:\GitHub\WeiDian\ToolsCommon\obj\Debug\WeiDian.ToolsCommon.dll
+F:\GitHub\WeiDian\ToolsCommon\obj\Debug\WeiDian.ToolsCommon.pdb

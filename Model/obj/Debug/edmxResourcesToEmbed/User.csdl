@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WeiDianDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PassWord" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Sex" Type="Boolean" />
+    <Property Name="Birthday" Type="DateTime" Precision="0" />
+    <Property Name="Address" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="StaffID" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PhoneNum" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="JoinTime" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="WeiDianDBEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="User" EntityType="Self.User" />
+  </EntityContainer>
+</Schema>
